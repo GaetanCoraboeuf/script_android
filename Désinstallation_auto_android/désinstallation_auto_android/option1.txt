@@ -1,0 +1,43 @@
+# option 1
+
+package:com.google.android.youtube                  youtube
+package:com.google.android.gm                       gmail
+package:com.samsung.android.aremoji                 AR Emoji
+package:com.google.ar.core                          truc google
+package:com.samsung.android.arzone                  AR Zone
+package:com.microsoft.skydrive                      OneDrive
+package:com.google.android.apps.maps                Google Maps
+package:com.android.chrome                          Google Chrome
+package:com.facebook.katana                         facebook
+package:com.google.ar.core                          Google Play Service for AR
+package:com.google.android.googlequicksearchbox     Google
+package:com.samsung.android.game.gamehome           Game Launcher
+package:com.samsung.android.game.gametools          Game Boost
+package:com.samsung.android.game.gos                Game Optimizig Service
+package:com.android.vending                         Google Play Store
+package:com.google.android.apps.tachyon             Meet (google visio)
+# package:com.google.android.gms                      Service Google Play
+package:com.google.android.tts                      Service vocaux Google
+package:com.sfr.android.sfrjeux                     SFR Jeux
+package:com.altice.android.myapps                   SFR My apps
+package:de.axelspringer.yana.zeropage               upday (news)
+package:com.sec.android.app.shealth                 Samsung Health
+package:com.samsung.android.oneconnect              SmartThings
+package:com.samsung.android.voc                     Samsung Members
+package:com.samsung.android.scloud                  Samsung Cloud
+package:com.samsung.android.app.watchmanagerstub    Galaxy Wearable
+package:com.samsung.android.samsungpass             Samsung Pass
+package:com.samsung.android.app.spage               Samsung Free (Samsung O)
+package:com.samsung.sree                            Samsung Global Goals
+package:com.google.android.apps.photos              Google Photos
+package:com.google.android.apps.docs                Google Drive
+package:com.google.android.videos                   Google TV
+package:com.samsung.android.app.reminder            Reminder
+package:com.sec.android.app.samsungapps             Galaxy Store
+
+
+
+
+
+
+
