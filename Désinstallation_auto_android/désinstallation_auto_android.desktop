@@ -1,0 +1,10 @@
+[Desktop Entry]
+Comment=Désinstallation auto android application 
+Exec=/home/gaetan/Bureau/.désinstallation_auto_android/désinstallation_auto_android.sh
+Icon=/home/gaetan/Bureau/.désinstallation_auto_android/Bloatware.png
+Name=Désinstallation auto android
+NoDisplay=false
+StartupNotify=false
+Terminal=1
+TerminalOptions=
+Type=Application
