@@ -8,4 +8,4 @@
 
 chmod u+x /home/$USER/Bureau/récupération-photo-android.desktop && chmod u+x /home/$USER/Bureau/.récupération-photo-android/*.sh
 
-3) C'est fini il ne vous reste plus qu'à cliquer sur le raccourci pour télécharger les photos.
+3) C'est fini, il ne vous reste plus qu'à cliquer sur le raccourci pour télécharger les photos.
