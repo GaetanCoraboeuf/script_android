@@ -2,7 +2,7 @@
 * programme pour télécharger des photos de android vers linux en un clic * 
 **************************************************************************
 
-1) Mettre le dossier .récupération-photo-android (afficher les fichers cachés) et le fichier récupération-photo-android.desktop sur le bureau.
+1) Mettre le dossier .récupération-photo-android (remettre le "." devant et afficher les fichers cachés) et le fichier récupération-photo-android.desktop sur le bureau.
 
 2) Exécuter dans un terminal la commande ci-dessous :
 
