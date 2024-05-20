@@ -1,0 +1,10 @@
+[Desktop Entry]
+Comment=récupération photo android application 
+Exec=/home/$USER/Bureau/.récupération-photo-android/récupération-photo-android.sh
+Icon=/home/$USER/Bureau/.récupération-photo-android/récupération-photo-android.png
+Name=Récupération photo android
+NoDisplay=false
+StartupNotify=false
+Terminal=1
+TerminalOptions=
+Type=Application
